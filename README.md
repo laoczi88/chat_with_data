@@ -1,3 +1,14 @@
+---
+title: Chat With Data
+emoji: 🌍
+colorFrom: yellow
+colorTo: green
+sdk: streamlit
+sdk_version: 1.17.0
+app_file: app.py
+pinned: false
+license: cc
+---
 # chat_with_data
 
  This app starts with the AI wikipedia article from data folder and you can chat about it.  
