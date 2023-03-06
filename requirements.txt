@@ -1,10 +1,1 @@
-pip
-langchain
-openai
-faiss-cpu
-streamlit
-streamlit-chat
-unstructured
-python-magic
-python-magic-bin
-Wikipedia-API
+gradio
