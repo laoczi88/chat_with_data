@@ -1,3 +1,4 @@
+pip==23.0.1
 langchain
 openai
 faiss-cpu
