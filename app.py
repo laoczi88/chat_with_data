@@ -102,7 +102,7 @@ def generate(video_url, question):
 #======================================
 
 
-title = "YouTube Summorize (only english video < 15 min)"
+title = "ZxZ YouTube Summorize (only english video < 15 min)"
 demo = gr.Interface(fn=generate, css=".gradio-container {background-color: lightblue}",
                      inputs=[
                               gr.Textbox(lines=1, label="Video URL"), 
